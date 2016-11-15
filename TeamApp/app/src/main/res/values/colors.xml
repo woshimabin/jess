@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tabBackColor">#42de98</color>
+    <color name="TextColor_on">#fff</color>
+
+    <color name="Color_Title">#11cd6e</color>
+    <color name="Black">#000</color>
+    <color name="gray">#a9b7b7</color>
+
+    <color name="white">#fff</color>
+    <color name="green">#0f0</color>
+    <color name="red">#f46845</color>
+    <color name="graytransparent" >#8000</color>
+    <color name="purple">#8b67b7</color>
+
+</resources>

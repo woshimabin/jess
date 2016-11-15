@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">新百思不得姐</string>
+    <!--<string name="app_name">ShareSDK</string>-->
+    <string-array name="tablayout_name">
+        <item>推荐</item>
+        <item>视频</item>
+        <item>图片</item>
+        <item>段子</item>
+        <item>网红</item>
+        <item>排行</item>
+        <item>社会</item>
+        <item>美女</item>
+        <item>冷知识</item>
+        <item>游戏</item>
+    </string-array>
+</resources>
